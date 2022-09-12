@@ -7,3 +7,5 @@ A game under 13Kb for the [js13kgames.com](js13kgames.com) competition.
 ### Requirements
 
 - Node and npm
+npm install
+npm start
