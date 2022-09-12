@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Vintharas/js13k-spaceshooter.git"
+    "url": "https://github.com/bluehipy/death-in-holiday.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Vintharas/js13k-spaceshooter/issues"
+    "url": "https://github.com/bluehipy/death-in-holiday/issues"
   },
-  "homepage": "https://github.com/Vintharas/js13k-spaceshooter#readme",
+  "homepage": "https://bluehipy.github.io/death-in-holiday/#readme",
   "devDependencies": {
     "@babel/core": "^7.19.0",
     "@babel/preset-env": "^7.19.0",
